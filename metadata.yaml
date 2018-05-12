@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37647#The-Adventures-of-a-Country-Boy-at-a-Country-Fair
 gutenberg_issued: '2011-10-06'
 gutenberg_type: Text
 identifiers:
